@@ -276,7 +276,7 @@ export default function App() {
         <div className="brand-block">
           <div className="brand-icon">✓</div>
           <div>
-            <h1 className="brand-title">Task Verde</h1>
+            <h1 className="brand-title">Bienvenido a TaskLeaf</h1>
             <p className="brand-subtitle">Organiza tus tareas con estilo</p>
           </div>
         </div>
